@@ -1,2 +1,2 @@
 # H12R1x-Hardware
-Hexabitz Industrial 12-Bit Analog Input (0-20) mA Module Hardware Design
+Hexabitz SX1276 LoRa Module 868 MHz Module Hardware Design
