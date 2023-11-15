@@ -3109,7 +3109,7 @@ Source: &lt;a href="https://www.hirose.com/product/document?clcode=CL0331-0472-2
 <part name="SUPPLY8" library="HEXABITZ_CONNECTION_PARTS" library_urn="urn:adsk.eagle:library:20064553" deviceset="VDDA" device=""/>
 <part name="SWD" library="HEXABITZ_CONNECTION_PARTS" library_urn="urn:adsk.eagle:library:20064553" deviceset="PINHD-1X3" device="SWD" package3d_urn="urn:adsk.eagle:package:42172676/2"/>
 <part name="P1" library="hexabitz_connectors" library_urn="urn:adsk.eagle:library:20064578" deviceset="HEXABIT_?_NO_P6_P7_P12" device="17.32" package3d_urn="urn:adsk.eagle:package:20064634/2"/>
-<part name="U2" library="HEXABITZ_ICs" library_urn="urn:adsk.eagle:library:20064554" deviceset="LORA127X-C1" device="" package3d_urn="urn:adsk.eagle:package:42421660/4"/>
+<part name="U2" library="HEXABITZ_ICs" library_urn="urn:adsk.eagle:library:20064554" deviceset="LORA127X-C1" device="" package3d_urn="urn:adsk.eagle:package:42421660/4" value="Lora1276-C1-868"/>
 <part name="J1" library="HEXABITZ_CONNECTION_PARTS" library_urn="urn:adsk.eagle:library:20064553" deviceset="U.FL-R-SMT-1_10_" device="" package3d_urn="urn:adsk.eagle:package:42403633/2"/>
 <part name="GND3" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND4" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
@@ -8461,8 +8461,8 @@ Source: &lt;a href="https://www.hirose.com/product/document?clcode=CL0331-0472-2
 </plain>
 <instances>
 <instance part="U2" gate="G$1" x="140.335" y="106.045" smashed="yes">
-<attribute name="NAME" x="128.2539" y="122.4512" size="2.54323125" layer="95"/>
-<attribute name="VALUE" x="128.2616" y="89.0115" size="2.541690625" layer="96"/>
+<attribute name="NAME" x="128.2539" y="121.8162" size="1.9304" layer="95"/>
+<attribute name="VALUE" x="128.2616" y="89.6465" size="1.9304" layer="96"/>
 </instance>
 <instance part="J1" gate="G$1" x="86.995" y="132.715" smashed="yes" rot="R180">
 <attribute name="NAME" x="77.47" y="137.16" size="1.778" layer="95" rot="R180" align="center-left"/>
